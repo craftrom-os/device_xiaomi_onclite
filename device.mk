@@ -166,11 +166,9 @@ PRODUCT_PACKAGES += \
     libdisplayconfig \
     libqdMetaData \
     libqdMetaData.system \
-    libtinyxml \
-    libgenlock \
     vendor.display.config@2.0 \
     vendor.display.config@2.0.vendor
-    
+
 # Doze mode
 PRODUCT_PACKAGES += \
     XiaomiDoze
