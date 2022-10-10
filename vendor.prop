@@ -34,6 +34,9 @@ ro.soc.model=SDM450
 ro.vendor.display.cabl=0
 ro.vendor.display.sensortype=2
 
+# Display
+debug.sf.auto_latch_unsignaled=true
+
 # DPM
 persist.vendor.dpmhalservice.enable=1
 
