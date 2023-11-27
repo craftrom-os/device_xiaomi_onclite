@@ -3,12 +3,12 @@
        "remote"      : "craftrom",
        "repository"  : "kernel_xiaomi_onclite",
        "target_path" : "kernel/xiaomi/onclite",
-       "branch"      : "13"
+       "branch"      : "trall"
    },
    {
        "remote"      : "craftrom",
        "repository"  : "vendor_xiaomi_onclite",
        "target_path" : "vendor/xiaomi/onclite",
-       "branch"      : "13"
+       "branch"      : "trall"
    }
 ]
