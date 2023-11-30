@@ -19,6 +19,9 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_SUPPORTS_QUICK_TAP := false
 TARGET_USES_AOSP_RECOVERY := true
 
+# CraftRom specific flags
+CUSTOM_MAINTAINER  := melles1991
+
 # Inherit some common PixelExperience stuff.
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
