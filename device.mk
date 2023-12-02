@@ -138,8 +138,7 @@ PRODUCT_PACKAGES += \
     libgui_vendor \
     libstdc++ \
     libstdc++.vendor \
-    vendor.qti.hardware.camera.device@1.0 \
-    CameraGo
+    vendor.qti.hardware.camera.device@1.0
 
 # Dalvik
 PRODUCT_PROPERTY_OVERRIDES += \
