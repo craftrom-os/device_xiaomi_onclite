@@ -21,6 +21,7 @@ TARGET_USES_AOSP_RECOVERY := true
 
 # CraftRom specific flags
 CUSTOM_MAINTAINER  := melles1991
+TARGET_GCAM_SUPPORTED := true
 
 # Inherit some common PixelExperience stuff.
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
