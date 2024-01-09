@@ -54,6 +54,11 @@ persist.dbg.wfc_avail_ovr=1
 # Keystore
 ro.hardware.keystore_desede=true
 
+# LMK
+persist.sys.lmk.camera_minfree_levels=18432:0,23040:100,27648:200,64512:300,115712:800,216370:900
+persist.sys.lmkd.double_watermark.enable=true
+persist.sys.lmkd.extend_reclaim.enable=true
+
 # Media
 debug.stagefright.omx_default_rank.sw-audio=1
 debug.stagefright.omx_default_rank=0
